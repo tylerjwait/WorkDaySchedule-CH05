@@ -32,3 +32,5 @@ THEN the saved events persist✅
 
 ![WorkDayScheduler-CH05](https://github.com/tylerjwait/WorkDaySchedule-CH05/blob/main/assets/Screenshot%202023-01-02%20at%202.00.15%20PM.png)
 
+REPO--https://github.com/tylerjwait/WorkDaySchedule-CH05
+DEPLOYED SITE--https://tylerjwait.github.io/WorkDaySchedule-CH05/
